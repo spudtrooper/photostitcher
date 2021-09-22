@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# go
+photosticher
+# Uncomment once we can ue the remote version: go-image-merge/*
